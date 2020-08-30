@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+
 ## Hi there, I'm Kartik Chawda
 
 ### Web and Android Application Developer. Experienced with development cycle with dynamic projects
@@ -89,17 +90,19 @@
 
 </details> -->
 
-<!-- [website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+<!-- [website]: https://codeSTACKr.com -->
+
+[twitter]: https://twitter.com/chawdakartik1
+
+<!-- [youtube]: https://youtube.com/codeSTACKr -->
+
+[instagram]: https://www.instagram.com/kartikc_0123/
+[linkedin]: https://www.linkedin.com/in/kartikchawda
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
-=======
-### Hi there 👋
+
+<!-- # [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0 -->
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **KartikCD/KartikCD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -115,4 +118,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
->>>>>>> 62d32e9f6389f994d22e9b7fa8cd8919f868053c
+
+> > > > > > > 62d32e9f6389f994d22e9b7fa8cd8919f868053c
