@@ -1,6 +1,6 @@
 ## Hi there, I'm Kartik Chawda
 
-### Web and Android Application Developer. Experienced with development cycle with dynamic projects
+### Web and Android Application Developer.<br> Experienced with development cycle with dynamic projects
 
 - 🔭 I’m currently working on a **Data Structures and Algorithms**
 - 🌱 I’m currently learning **React Native**
