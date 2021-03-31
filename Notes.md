@@ -38,6 +38,7 @@ Create ViewModel and extend ViewModel to class
 
 ```bash
 private lateinit var viewModel: MainActivityViewModel
+
 viewModel = ViewModelProvider(this).get(MainActivityViewModel::class.java)
 ```
 
@@ -68,7 +69,9 @@ class MainActivityViewModel(startingTotal: Int): ViewModel() {
 In MainActivity
 
 ```bash
-videModelFactory = MainActivityViewModelFactory(100)viewModel = ViewModelProvider(this, videModelFactory).get(MainActivityViewModel::class.java)
+videModelFactory = MainActivityViewModelFactory(100)
+
+viewModel = ViewModelProvider(this, videModelFactory).get(MainActivityViewModel::class.java)
 ```
 
 ## LiveData
@@ -111,7 +114,7 @@ https://developer.android.com/jetpack/androidx/releases/navigation
 
 Create nav_graph.xml file and in main activity add NavHostFragment Container It will automatically recognize.
 
-for navigating to other fragments
+For navigating to other fragments
 
 ```bash
 it.findNavController().navigate(R.id.action_homeFragment_to_secondFragment)
@@ -123,3 +126,5 @@ For sending data to another screen
 val bundle = bundleOf("user_input" to editTextTextPersonName.text.toString())
 it.findNavController().navigate(R.id.action_homeFragment_to_secondFragment, bundle)
 ```
+
+Optimized RecyclerView
