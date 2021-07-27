@@ -2,8 +2,7 @@
 
 ### Web and Android Application Developer.<br> Experienced with development cycle with dynamic projects
 
-- 🔭 I’m currently working on a **Data Structures and Algorithms**
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Android Jetpack Libraries**
 - ⚡ Fun fact: I love to play Chess and Cricket
 - 🕹️ Gamer
 
