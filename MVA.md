@@ -23,3 +23,5 @@
 ## Acheivements
 
 - Winners of DEVSOC 2021 organised Vellore Institute of Technology, Vellore, Tamil Nadu where we presented Measure Visual Acuity Project.
+
+### [Profile](https://github.com/KartikCD)
