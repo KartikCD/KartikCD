@@ -6,6 +6,7 @@
 
 ### Projects
 
+- [Ammi's Kitchen](https://github.com/Ammis-Kitchen)
 - [Notepad](https://github.com/KartikCD/Notepad)
 - [MediumX](https://github.com/KartikCD/MediumX)
 - [PokeDex](https://github.com/KartikCD/PokeDex)
