@@ -1,6 +1,6 @@
 ## Hi there, I'm Kartik Chawda
 
-- 🌱 I’m currently learning **Android Jetpack Libraries and React.js**
+- 🌱 I’m currently learning **Android Jetpack Libraries, React.js and TypeScript**
 - ⚡ Fun fact: I love to play PC Games and Cricket
 - 🕹️ Gamer, Trekker
 
